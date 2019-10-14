@@ -1,0 +1,64 @@
+.buscador{
+   text-align: center;
+}
+.sesion{
+    position: absolute;
+    right: 20px;
+    margin-right: 50px;
+}
+.boton{
+    background-color: red;
+    border: none;
+}
+.boton:hover{
+    background-color: #e50808;
+}
+th{
+text-align: center;
+    font-size: 20px;
+}
+td{
+    text-align: center;
+    font-size: 17px;
+}
+.ptabla{
+    padding-top: 40px;
+}
+.iniciarsesion{
+    color: red;
+    text-align: center;
+    margin-top: 10px;
+
+}
+.login{
+
+    width: 70%;
+    margin: auto;
+    margin-top: 20px;
+    padding: 2%;
+    border: 3px solid red;
+    border-radius: 30px;
+}
+img{
+    width: 108px;
+    height: 108px;
+}
+h2{
+    color: red;
+    font-weight: bold
+}
+.form-control:focus{
+
+    border-color: red!important;
+    -webkit-box-shadow: 0px 0px 5px 0px rgba(255,0,0,1);
+    -moz-box-shadow: 0px 0px 5px 0px rgba(255,0,0,1);
+    box-shadow: 0px 0px 5px 0px rgba(255,0,0,1);
+}
+.noEncontrado{
+    width: 40%;margin:auto;
+    margin-bottom:40px;
+    text-align: center;
+    color: white;
+    background-color: #da1919;
+    border-radius: 30px;
+}
